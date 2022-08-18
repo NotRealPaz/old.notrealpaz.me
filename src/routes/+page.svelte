@@ -1,7 +1,3 @@
-<script context="module">
-  export const prerender = true;
-</script>
-
 <script>
   import { onMount, tick } from "svelte";
 
@@ -36,6 +32,10 @@
     <div>
       <h1>Passawat Noraman</h1>
       <p>Full-stack developer</p>
+      <p class="link">
+        <img src="/facebook.svg" alt="facebook icon" />
+        <a href="https://www.facebook.com/NotRealPaz" rel="me">NotRealPaz</a>
+      </p>
       <p class="link">
         <img src="/twitter.svg" alt="twitter icon" />
         <a href="https://twitter.com/NotRealPaz" rel="me">NotRealPaz</a>
