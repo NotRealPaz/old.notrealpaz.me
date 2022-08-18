@@ -7,8 +7,7 @@
     "package": "svelte-kit package",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./jsconfig.json",
-    "check:watch": "svelte-check --tsconfig ./jsconfig.json --watch",
-    "prepare": "svelte-kit sync"
+    "check:watch": "svelte-check --tsconfig ./jsconfig.json --watch"
   },
   "devDependencies": {
     "@sveltejs/adapter-cloudflare": "1.0.0-next.31",
