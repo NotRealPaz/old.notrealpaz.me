@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@fontsource/prompt': ^4.5.9
-  '@sveltejs/adapter-cloudflare': 1.0.0-next.31
+  '@sveltejs/adapter-cloudflare': next
   '@sveltejs/kit': next
   autoprefixer: ^10.4.8
   eslint: ^8.22.0
